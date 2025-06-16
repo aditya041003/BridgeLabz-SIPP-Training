@@ -1,3 +1,4 @@
+package java_control_flow;
 import java.util.Scanner;
 
 public class MultiplesBelow100While {
