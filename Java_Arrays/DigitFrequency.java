@@ -1,3 +1,5 @@
+package Java_Arrays;
+
 import java.util.*;
 
 public class DigitFrequency {
