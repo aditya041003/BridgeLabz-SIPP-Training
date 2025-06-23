@@ -1,4 +1,4 @@
-package Java_Arrays;
+package Arrays;
 import java.util.*;
 public class AgeAndHeight {
 

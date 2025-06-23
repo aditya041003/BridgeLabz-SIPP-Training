@@ -1,3 +1,4 @@
+package Arrays;
 //write a PROGRAM TO CHECK ODD DIVISOR OF A NUMBER
 import java.util.Scanner;
 public class Word {
